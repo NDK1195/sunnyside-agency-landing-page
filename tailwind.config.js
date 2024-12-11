@@ -18,6 +18,10 @@ module.exports = {
         "dark-grayish-blue": "hsl(232, 10%, 55%)",
         "grayish-blue": "hsl(210, 4%, 67%)",
       },
+      backgroundImage: {
+        "header-desktop": 'url("../images/desktop/image-header.jpg")',
+        "header-mobile": 'url("../images/mobile/image-header.jpg")',
+      },
     },
   },
   plugins: [],
