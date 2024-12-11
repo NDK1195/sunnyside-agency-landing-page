@@ -8,8 +8,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/NDK1195/huddle-landing-page-with-single-introductory-section)
-- Live Site URL: [Live site URL here](https://ndk1195.github.io/huddle-landing-page-with-single-introductory-section/)
+- Solution URL: [Solution URL here](https://github.com/NDK1195/sunnyside-agency-landing-page)
+- Live Site URL: [Live site URL here](https://ndk1195.github.io/sunnyside-agency-landing-page/)
 
 ### Built with
 
